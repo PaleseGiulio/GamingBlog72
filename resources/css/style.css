@@ -1,0 +1,64 @@
+body{
+    background-color: teal;
+}
+
+.bg-form{
+    background-color: rgba(245, 245, 245, 0.617);
+}
+
+.bg-teal{
+    background-color: teal;
+}
+.bg-tr{
+    background-color: rgba(0, 0, 0, 0.721);
+}
+.tx-teal{
+    color: teal;
+}
+.bg-smoke{
+    background-color: rgb(182, 182, 182);
+}
+.tx-smoke{
+    color: rgb(150, 150, 150);
+}
+.nl-font{
+    font-family: 'Rock Salt', cursive;
+}
+.decsription-font{
+    font-family: 'Zen Loop', cursive;
+    font-size: 50px;
+}
+
+/* navbar */
+/* .index{
+    position: fixed;
+    z-index: 1;
+    top: 0;
+} */
+
+.absolutcustom{
+    position: absolute;
+    right: 37px;
+}
+
+.fs-custom{
+    font-size: 40px;
+}
+
+.bgConsols{
+    background-image: url(/public/logos/consolsbg.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.bgGames{
+    background-image: url(/public/logos/gamesbg.jpg);
+    background-size: cover;
+    background-position: center;
+}
+/* end navbar */
+
+/* .bg-newsletter{
+    background:linear-gradient(to top, black, white);
+    background:linear-gradient(to top, rgb(33, 37, 41), white);
+} */
